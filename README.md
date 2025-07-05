@@ -5,8 +5,7 @@
 ## Welcome! 👋
 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
+[Frontend Mentor](https://www.frontendmentor.io) 
 
 ## The challenge
 
